@@ -1,0 +1,19 @@
+---
+title: "Readme"
+author: "Javier Castillo-Arnemann"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a repository containing the 4th assignment of the **STAT 545** course. The course main page can be found [here](http://stat545.com/). The instructions for this assignment can be accesed [here](http://stat545.com/Classroom/assignments/hw04/hw04.html)
+
+##Files
+
+-   Markdown file is [here](https://github.com/STAT545-UBC-students/hw04-yavyx/blob/master/hw04-yavyx.md).
+-   R markdown file is [here](https://github.com/STAT545-UBC-students/hw04-yavyx/blob/master/hw04-yavyx.Rmd).
+
+###About the Author
+My name is Javier Jose Castillo Arnemann and I was born in the **Dominican Republic**. I did my undergraduate studies at Tec de Monterrey in Queretaro, Mexico, obtaining a **Biotechnology Engineering** degree. Currently, I am a new Master's student in **Bioinformatics** at UBC. I am part of Bob Hancock's lab, where research is done with antibiotic resistant *P. aeruginosa* and the host's immune response to infection, among other topics.
